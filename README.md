@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justin Benito</h1>
-<h3 align="center">An aspiring Engineer from planet earth 🌎</h3>
+<h3 align="center">Zealous Engineer from planet earth 🌎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinbenito&label=Profile%20views&color=0e75b6&style=flat" alt="justinbenito" /> </p>
 
