@@ -16,7 +16,7 @@
 - 📫 How to reach me **Justinbenito1974@gmail.com**
 
 - ✍️ I also write, Occasionally on [dev.to](https://dev.to/justinbenito)
-- 
+
 - ⚡ Fun fact **you read this.**
 
 <h3 align="left">Connect with me:</h3>
