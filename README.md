@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinbenito&label=Profile%20views&color=0e75b6&style=flat" alt="justinbenito" /> </p>
 
-- 🔭 I’m currently working on **Simpodoro a Flutter Application**
+- 🔭 I’m currently working on **a Telegram Bot**
 
 - 🌱 I’m currently learning **React and React Native**
 
