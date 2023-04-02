@@ -31,6 +31,7 @@
 
 # Latest Articles
 - [Cool Tech I Found in CES '23](https://dev.to/justinbenito/cool-tech-i-found-in-ces-2023-52b4)
+- [My Hackathon Experience](https://link.medium.com/Y3643NyDFyb)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinbenito&theme=dark" alt="justinbenito" /></p>
 
