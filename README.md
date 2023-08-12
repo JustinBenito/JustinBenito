@@ -35,4 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justinbenito&theme=dark" alt="justinbenito" /></p>
 
-[![@justin's Holopin board](https://holopin.me/justin)](https://holopin.io/@justin)
+[![JustinBenito's GitHub | Stats](https://stats.quine.sh/JustinBenito/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JustinBenito)
+
+[![JustinBenito's GitHub | Topics](https://stats.quine.sh/JustinBenito/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JustinBenito)
