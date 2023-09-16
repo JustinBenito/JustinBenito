@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinbenito&label=Profile%20views&color=0e75b6&style=flat" alt="justinbenito" /> </p>
 
-- 🔭 I’m currently working on **a TeleHealth App**
+- 🔭 Working on Many things
 
-- 🌱 I’m currently learning **React and React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - Checkout my portfolio @ [Justinbenito.com](https://justinbenito.com)
-- 👯 I’m looking to collaborate on **building Flutter Applications**
+- 👯 I’m looking to collaborate on **building Stuff**
 
 - 🤝 I’m looking for help with **blockchain development**
 
@@ -20,7 +20,6 @@
 
 - ✍️ I also write, Occasionally on [dev.to](https://dev.to/justinbenito)
 
-- ⚡ Fun fact **you read this.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
