@@ -5,7 +5,7 @@
 
 - 🔭 Working on Many things
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning** and **Blockchain**
 
 - Checkout my portfolio @ [Justinbenito.com](https://justinbenito.com)
 - 👯 I’m looking to collaborate on **building Stuff**
