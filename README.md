@@ -18,7 +18,7 @@
 
 - 🌟 Check out https://bento.me/justinbenito
 
-- ✍️ I also write, Occasionally on [dev.to](https://dev.to/justinbenito)
+- ✍️ I also write, Occasionally on [dev.to](https://medium.com/@justinbenito)
 
 
 <h3 align="left">Connect with me:</h3>
